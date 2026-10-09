@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**ymm0191-byte/ymm0191-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ming 👋
 
-Here are some ideas to get you started:
+🎓 Master's Student in Integrated Circuit Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+## 🔬 Research Interests
+
+- Chaotic Dynamical Systems
+- Reservoir Computing
+- Nonlinear Time Series Prediction
+- Numerical Simulation and Signal Processing
+
+## 🛠 Technical Skills
+
+- Programming: Python, MATLAB, C
+- Embedded Systems: STM32
+- Scientific Computing and Data Visualization
+
+## 📚 Currently Learning
+
+- Chaotic System Modeling and Simulation
+- Hybrid Reservoir Computing
+
+
+## 🚀 Projects
+
+This GitHub profile will document my research experiments,
+open-source code, and engineering projects.
+
+## 📫 About This Profile
+
+I am continuously learning and exploring new ideas
+in nonlinear dynamics and integrated circuit engineering.
